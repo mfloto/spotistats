@@ -8,3 +8,4 @@ Get a client-id from the spotify web-api (https://developer.spotify.com/dashboar
 - [x] Add app-icon
 - [ ] Settings (set how many items to display, etc.)
 - [ ] Support for multiple accounts
+- [ ] Add screenshots
